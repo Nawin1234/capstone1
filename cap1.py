@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure API key securely (Set it as an environment variable)
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "AIzaSyDAn69hpc4jYH4z3QsflRB_aazoBvPQw4g"
 genai.configure(api_key=API_KEY)
 
 # Fetch available models
